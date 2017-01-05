@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,AR-Rotana-Aflem http://195.12.170.154:8002/play/arrotanaaflem 
 #EXTINF:-1,AR-Otv http://195.12.170.154:8002/play/arotv
 #EXTINF:-1,AR-MBC1 HD http://195.12.170.154:8002/play/armbc1hd 
@@ -19,9 +20,9 @@
 #EXTINF:-1,AR-toyour-aljennah http://195.12.170.154:8002/play/artoyouraljennah 
 #EXTINF:-1,AR-RotanaKhaliji HD http://195.12.170.154:8002/play/arrotanakhalijihd 
 #EXTINF:-1,AR-Star Cin1 http://195.12.170.154:8002/play/arstarcin1 #EXTINF:-1,AR-Panorama action
-#EXTINF:-1,————-IPTV Arabic Nilesat————–
+#EXTINF:-1,â€”â€”â€”â€”-IPTV Arabic Nilesatâ€”â€”â€”â€”â€“
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/44.ts
-#EXTINF:-1,——————–MAROCAIN——————–
+#EXTINF:-1,â€”â€”â€”â€”â€”â€”â€“MAROCAINâ€”â€”â€”â€”â€”â€”â€“
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/45.ts
 #EXTINF:-1,medi1 TV
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/46.ts
@@ -39,7 +40,7 @@ http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/51.ts
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/52.ts
 #EXTINF:-1,Tamazight
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/53.ts
-#EXTINF:-1,——————–ALGERIEN——————–
+#EXTINF:-1,â€”â€”â€”â€”â€”â€”â€“ALGERIENâ€”â€”â€”â€”â€”â€”â€“
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/54.ts
 #EXTINF:-1,LOCAL:BERBERE TV
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/55.ts
@@ -71,7 +72,7 @@ http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/67.ts
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/68.ts
 #EXTINF:-1,Beur TV
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/69.ts
-#EXTINF:-1,——————–TUNISIAN——————–
+#EXTINF:-1,â€”â€”â€”â€”â€”â€”â€“TUNISIANâ€”â€”â€”â€”â€”â€”â€“
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/70.ts
 #EXTINF:-1,Watanya 1
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/71.ts
@@ -101,7 +102,7 @@ http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/82.ts
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/83.ts
 #EXTINF:-1,tayba
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/84.ts
-#EXTINF:-1,——————–ARABIC_NILSAT——————–
+#EXTINF:-1,â€”â€”â€”â€”â€”â€”â€“ARABIC_NILSATâ€”â€”â€”â€”â€”â€”â€“
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/85.ts
 #EXTINF:-1,MBC 1 HD
 http://ndaiptv.com:5999/live/dikrayatyiptv/dikrayatyiptv/86.ts
